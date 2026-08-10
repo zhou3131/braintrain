@@ -1,0 +1,7 @@
+{
+  "name": "braintrain",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "跨平台脑力训练 PWA：记忆宫殿、舒尔特方格、专注力与听视觉记忆"
+}
